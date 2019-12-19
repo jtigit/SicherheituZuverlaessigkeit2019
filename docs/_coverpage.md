@@ -6,7 +6,7 @@
 	Studiengang Informatik<br>
 </div>
 
-<div style="text-align: center; font-size: 4em; font-weight: bold; margin: 0px 0px 60px 0px">Thema<br> Thema Zeile 2</div>
+<div style="text-align: center; font-size: 4em; font-weight: bold; margin: 0px 0px 60px 0px">IT Sicherheit<br>und Notfallmanagement</div>
 
 <div style="text-align: center; font-size: 1.1em; margin: 0px 0px 60px 0px">
 	angefertigt von:<br>
