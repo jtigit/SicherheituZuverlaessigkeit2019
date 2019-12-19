@@ -1,5 +1,3 @@
-[Vorwort](Teilausarbeitungen/Vorwort.md ':include')  
-
 # Einleitung und Begriffserklärung
 
 [Kapitel 3](Teilausarbeitungen/Kapitel_3.md ':include')  
