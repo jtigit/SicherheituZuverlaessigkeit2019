@@ -20,13 +20,17 @@ Kapitel 8,9,10,11(17): André
 
 ---
 Meeting 23: 12: 2019 16:00 Uhr   
-Kapitelaufteilung Ausarbeitung der Teile
+Kapitelaufteilung Ausarbeitung der Teile  
+Vorstellung der Teile  
+Aufgaben:
+* md Datei erstellen und einbinden und mit InhaltsStruktur versehen
+* Ausarbeit beginnen nach eigenem ermessen.
 
-Kapitelaufteilung  
-Ausarbeitung der Teile
 
 ---
 Meeting 28:12:2019 16:00 Uhr  
+Geplannt: Evtl Klaerung von Fragen, weitere Plannung.
+
 
 ---
 
