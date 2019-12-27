@@ -4,4 +4,7 @@
 * [Kapitel 5](/Teilausarbeitungen/Kapitel_5.md)
 * [Kapitel 7](/Teilausarbeitungen/Kapitel_7.md)
 * [Kapitel 8](/Teilausarbeitungen/Kapitel_8.md)
+* [Kapitel 9](/Teilausarbeitungen/Kapitel_9.md)
+* [Kapitel 10](/Teilausarbeitungen/Kapitel_10.md)
+* [Kapitel 11](/Teilausarbeitungen/Kapitel_11.md)
 
