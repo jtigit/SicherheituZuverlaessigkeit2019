@@ -3,12 +3,12 @@ class: center, middle
 # Projektorganisation und Management
 
 angefertigt von:  
-Richard Leikam  
-André Grellmann  
-Nick Friedrich  
-Jakob Tissen  
+André Grellmann
+Jakob Tissen
+Kevin Gerzen
+Waldemar 
 
 <div>
 betreut von:<br>
-Prof. Dr. rer. nat. Jörg Brunsmann
+Prof. Dr. 
 </div>
