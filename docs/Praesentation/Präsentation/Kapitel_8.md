@@ -156,7 +156,7 @@ name: Tests_Uebungen
 
 ### Arten
 
-<img style="width:100%" src="https://github.com/jtigit/SicherheituZuverlaessigkeit2019/docs/Praesentation/Präsentation/Bilder/K8_Tabelle_Artenvergleich.png">
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K8_Tabelle_Artenvergleich.png">
 <div style="font-size: 0.5em; text-align: center">Vergleich der Arten (BSI-Standard 100-4 S.91)</div>
 
 ---
@@ -255,7 +255,7 @@ name: Tests_Uebungen
 
 - __Übungsdrehbuch:__
 
-<img style="width:90%" src="https://github.com/jtigit/SicherheituZuverlaessigkeit2019/docs/Praesentation/Präsentation/Bilder/K8_Uebungsdrehbuch.png">
+<img style="width:90%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K8_Uebungsdrehbuch.png">
 <div style="font-size: 0.5em; text-align: center">Darstellungsmöglichkeit Übungsdrehbuch (BSI-Standard 100-4 S.94)</div>
 
 ---
