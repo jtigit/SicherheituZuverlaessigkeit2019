@@ -28,7 +28,7 @@ Vortragsthema
 
 [Ausarbeitung](https://jtigit.github.io/SicherheituZuverlaessigkeit2019/#/)  
 
-[Präsentation](https://jtigit.github.io/SicherheituZuverlaessigkeit2019/#/Praesentation/Präsentation/)
+[Präsentation](https://jtigit.github.io/SicherheituZuverlaessigkeit2019/Praesentation/Präsentation/)
 
 [Teilausarbeitungen](https://jtigit.github.io/SicherheituZuverlaessigkeit2019/#/Teilausarbeitungen/)  
 
