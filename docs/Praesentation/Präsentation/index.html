@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Projektmanagement</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source"></textarea>
+	    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      // Place all of your files here
+      sourceUrls = [
+        'Einleitung.md',
+		'Titelfolie_Einleitung_Und_Begriffserklärung.md', 'Kapitel_3.md', 'Kapitel_4.md',
+		'Titelfolie_Projektdefinition.md', 'Kapitel_7.md',
+		'Titelfolie_Projektdurchführung.md', 'Kapitel_8.md',
+		'Titelfolie_Projektabschluss.md', 'Kapitel_9.md',
+		'Titelfolie_Metriken_Und_Prozessverbesserung.md', 'Kapitel_10.md', 'Kapitel_11.md',
+		'Titelfolie_Werkzeuge.md', 'Kapitel_12.md', 'MS_Project_2019.md', 'YouTrack.md', 'Jira.md', 'GitHub_Project_Board_Tool.md',
+		'Quellenangabe.md'
+        ];
+
+      var xmlhttp = new XMLHttpRequest();
+	  xmlhttp.overrideMimeType("text/plan");
+
+      var source = document.getElementById("source");
+
+      for (var i = 0; i < sourceUrls.length; i++) {
+        xmlhttp.open('GET', sourceUrls[i], false);
+        xmlhttp.send();
+
+        source.innerHTML += xmlhttp.responseText;
+		if (i + 1 < sourceUrls.length) {
+          source.innerHTML += "\n---\n";
+        }
+      };
+	  
+	  var slideshow = remark.create();
+	</script>
+
+  </body>
+</html>
