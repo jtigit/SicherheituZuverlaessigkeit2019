@@ -1,179 +1,293 @@
-name: Projektdurchfuehrung
+name: Tests_Uebungen
 
-# Projektdurchführung
+# Tests und Übungen
 
-- <img style="width:100%" src=" https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/projektregelkreis.png">
+### Einleitung
 
+- Sicherstellen von:
 
----
+ - Angemessenheit, Effizienz und Aktualität der Maßnahmen, Strukturen und Pläne
+ 
+ - Funktionsfähigkeit der Technik
+ 
+ - korrekter Ausführung von Maßnahmen durch Mitarbeiter
 
-# Projektdurchführung
-
-### Kontrolle und Steuerung
-
-+ Aufrechterhaltung von Projektfortschritt und Rahmenbedingungen
-
-+ gründliches Berichtswesen für Entscheidungsgrundlagen  
-
-
-+ Motivierende Arbeitsatmosphäre, Kommunikation, Balance
-
-+ Teamgefühl, Rituale, Transparenz
+ - richtigem und routiniertem Verhalten aller Beteiligten
 
 ???
-+ Entwicklungen und Trends die Kontrolle und Steuerung zu behalten.
 
-+ Kontrollmechanismen zu integrieren, wie regelmäßige Projektfortschrittsberichte, Besprechungen und Qualitätskontrollmaßnahmen. 
-
-+ Die Balance zwischen produktiver Arbeit und Berichtswesen muss gut tariert werden.
+- regelmäßige Tests und Übungen
 
 ---
 
-# Steuerung
+# Tests und Übungen
 
-### Projektfortschrittsentscheidung
+### Einleitung
 
-+ Leitungsausschuss bewertet Projektstatus an Entscheidungspunkten
+- hohe Kosten --> Sinnvolle Planung wichtig
 
-  + Freigabe
-  
-  + Freigabe mit Auflagen
-  
-  + Keine Freigabe
-  
-  + Abbruch
+ - Übungskonzept und -plan
+ 
+ - unterschiedliche Arten
+ 
+ - abhängig von Art & Größe der Institution & Umgebung
+ 
+???
 
-+ Vorteil: Projektleiter erhält Unterstützung
+-  
+
+ - = Planung sollte enthalten/berücksichtigen
+ 
+---
+
+# Tests und Übungen
+
+### Arten
+
+- reichen von einfacher Überprüfung von Einzelmaßnahmen bis komplexer Ernstfallübung
+
+- einfache Überprüfungen meist __Tests__ genannt
+
+- komplexe Überprüfungen mit hinterlegten Szenarien meist __Übung__ genannt
 
 ---
 
-# Steuerung
+# Tests und Übungen
 
-### Fortschrittskontrolle
+### Arten
 
-<div style="text-align: center">
-	<img style="width:60%" src="https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/MTA.png">
-</div>
-<div style="font-size: 0.4em; text-align: center">Meilensteintrendanalyse [4]</div>
+- __Test technischer Vorsorgemaßnahmen:__
+
+ - Sicherstellen von Angemessenheit und Funktionstüchtigkeit technischer Lösungen
+ 
+ - sollte auch bei großen Systemveränderungen durchgeführt werden
+ 
+- __Funktionstest:__
+
+ - Prozeduren, Teilprozesse und Systemgruppen auf Funktionalität überprüfen
+ 
+ - Überprüfen von Ablauf und Zusammenspiel/Abhängigkeiten verschiedener Komponenten oder Maßnahmen
 
 ???
-+ Planungsabweichungen und Gründe dafür herauszuarbeiten und entsprechende Konsequenzen zu treffen.
 
-+ Erfasst werden Termintreue und Ressourceneinsatz. inwieweit das Projekt im zeitlichen Rahmen liegt oder nicht.
+- technische Lösungen: redundante Leitungen/Versorgungen,  
+  Wiederherstellung Datensicherung, Ausfallsicherheit Cluster/Meldetechnik/IT-Komponenten
+  
+- Teile aus Teilplänen des Notfallhandbuchs
 
 ---
 
-# Kontrolle
+# Tests und Übungen
 
-### Aufwandserfassung
+### Arten
 
-+ Ressourcenplanung
+- __Plan-Review:__
+ - theoretisches Durchgehen von Plänen (augenscheinliche Bewertung)
+ 
+ - Inhalte und Annahmen dieser auf Plausabilität prüfen
+ 
+- __Planbesprechung:__
+ 
+ - vorgegebenes Szenario theoretisch durchspielen um Probleme und Szenarien durchzudenken
+ 
+ - gut für Validierung --> Unstimmigkeiten und Missverständnisse vor kostenintensiven Übungen aufdecken
+ 
+ - sollte öfter in Etablierungsphase des Notfallmanagements durchgeführt werden
+ 
+---
 
-+ zeitlicher Aufwand und Kosten der Mitarbeiter
+# Tests und Übungen
 
-+ Aufwandskalkulation von Arbeitspaketen
+### Arten
+
+- __Stabsübung:__
+ 
+ - besondere Form der Planbesprechung bei der die Zusammenarbeit mit Krisenstab geübt wird
+ 
+- __Stabsrahmenübung:__
+
+ - erweiterte Form der Stabsübung bei der die Zusammenarbeit des Krisenstabs und der operativen Teams geübt wird
+ 
+ - Simulation der stabsnahen Strukturen meist praktisch, die der operativen meist theoretisch
+ 
+---
+
+# Tests und Übungen
+
+### Arten
+
+- __Kommunikations- und Alarmierungsübung:__
+
+ - regelmäßige Überprüfung von Verfahren zur Eskalaion, Meldung und Alarmierung des Krisenstabs und weiterer Verantwortlicher
+ 
+ - umfasst Überprüfung der Kommunikationsmittel bis Zusammentreten des Krisenstabs im Krisenstabsraum
+ 
+ - Prüfen von in Plänen hinterlegten Zuständigkeiten, Rufnummern, Verfahren, Eskalationsstrategien, Erreichbarkeit und Stellvertreterregelungen auf Aktualität, Verständlichkeit, Handhabbarkeit und Praktikabilität
+ 
+---
+
+# Tests und Übungen
+
+### Arten
+
+- __Simulation von Szenarien:__
+
+ - Testen von Prozeduren und Maßnahmen durch realitätsnahe Simulation auf Zweckmäßigkeit, Angemessenheit und Funktionalität
+ 
+ - organisierbar als Funktions-, Bereichsübung oder bereichsübergreifend
+ 
+- __Ernstfall- oder Vollübung:__
+ 
+ - an Wirklichkeit orientiert
+ 
+ - sollte erst in fortgeschrittenem Stadium durchgeführt werden, da am aufwendigsten
+
+ - je nach Szenario auch mit externen Organisationen (z.B. Feuerwehr, Behörden)
+ 
+ - sollte trotz enormen Aufwands regelmäßig in großen Abständen ausgeführt werden
+ 
+???
+
+- Alarmierung & Eskalation, Notfallbewältigungsorganisation, Arbeit des Krisenstabs und Zusammenarbeit aller
+
+---
+
+# Tests und Übungen
+
+### Arten
+
+<img style="width:100%" src="https://github.com/jtigit/SicherheituZuverlaessigkeit2019/docs/Praesentation/Präsentation/Bilder/K8_Tabelle_Artenvergleich.png">
+<div style="font-size: 0.5em; text-align: center">Vergleich der Arten (BSI-Standard 100-4 S.91)</div>
+
+---
+
+# Tests und Übungen
+
+### Dokumente
+
+- __Übungshandbuch:__
+
+ - strategische Entscheidungen, grundsätzliche Festlegungen, Rahmenbedingungen und Vereinbahrungen für alle Tests und Übungen mit Institutionsleitung erarbeiten und hier festhalten um den laufenden Betrieb möglichst wenig zu stören
+ 
+ - Inhalte: strategische Bedeutung, Ziele, Stellenwert, Aufwand, Kosten, Ziele von Übungsarten, Anzahl durchzuführender Tests und Übungen (gesetzliche Vorgaben?), Rollenentscheidung inkl. Rechte/Pflichten/Verantwortlichkeiten, zu testende Bereiche (Kenntnisse & Fähigkeiten, Abläufe, Mechanismen etc. ), Methoden eingesetzter Übungen (z.B. (un-)angekündigt), Schnittstelle zum Tagesgeschäft, Grad der erlaubten Beeinflussung, Dokumentationsvorgaben, Auswertungsvorgaben
+ 
+ - beinhaltet auch Hilfsmittel wie z.B. Dokumentenvorlagen, Auswertungsfragebögen etc.
+ 
+---
+
+# Tests und Übungen
+
+### Dokumente
+
+- __Übungsplan:__
+
+ - beinhaltet ungefähre Eckdaten, Reihenfole und Termine von Übungen
+ 
+ - aufeinander abgestimmte Reihe für wenige Jahre mit allen Testarten bis min. zur Simulation von Szenarien planen (Vorgaben beachten)
+ 
+ - bewährte Reihenfolge: von einfach zu komplex
+ 
+ - Häufigkeit und Umfang der Übungen von Aufwand und Gefährdungslage der Organisationseinheit abhängig, risikoorientierte Vorgehensweise empfohlen: je kriter ein System desto öfter prüfen
+ 
+ - jährlicher Rythmus für einfache Tests und Übungen (z.B. Gebäuderäumung) bewährt, umfangreiche Ernstfallübungen wie Gebäudewechsel oder Testen von Notfallarbeitsplätzen alle zwei bis drei Jahre für Institutionen mit hoher Verfügbarkeitsanforderung empfohlen
+ 
+???
+
+- bei Terminfestlegung auf Randbedingungen wie Urlabszeiten oder Institutionstermine achten
+
+---
+
+# Tests und Übungen
+
+### Dokumente
+
+- __Übungsplan:__
+
+ - Informationen zu jedem Test / jeder Übung: Szenario, Übungszweck und -ort, verfolgtes Ziel, Teilnehmer, vorraussichtliche Dauer, angekündigt/unangekündigt, grobe Abschätzung von benötigten personellen, matriellen und finanziellen Ressourcen
+ 
+ - Plan von personalvertretung und Institutionsleitung freigeben lassen
+ 
+---
+
+# Tests und Übungen
+
+### Dokumente
+
+- __Test- und Übungskonzepte:__
+
+ - für jeden Test und jede Übung erarbeiten, Detailplanung für Durchführung
+ 
+ - Testkonzept: Methode zum Prüfen, angewendete Tools, vorgegebene Randbedingungen
+ 
+ - Übungskonzept: u.a. Teilnehmerkreis, Rolle der Teilnehmer, zeitlicher Rahmen, Abbruchkriterien, Name, Übungsleiter, Einweisung (Briefing), Szenario
+ 
+ - erst Grobkonzept zur Vorlage bei der Institutionsleitung und nach Genehmigung ein Feinkonzept erstellen
+ 
+ - bei sehr großen Übungen auf Sicherheitsvorkehrungen oder Verpflegung achten
+ 
+---
+
+# Tests und Übungen
+
+### Dokumente
+
+- __Übungsdrehbuch:__
+
+ - bei umfangreichen Übungsszenario zu erstellen
+ 
+ - Beschreiben von Ausgangslage, konkretem zeitlichen Ablauf, vordefinierten Ereignissen, Ablaufreihenfolge  
+   Festlegen wie und wer welche Informationen den Teilnehmern übermittelt
+   
+ - meist Szenariotechnik für Entwicklung: ausgehend von möglichen Schadensereignis realistische Entwicklungsmöglichkeiten aufzeigen,  
+   zum Vermeiden von Gewöhnung und Unmotiviertheit der Teilnehmer Übungen immer wieder anders gestalten
+   
+ - Ausgangslage beschreibt Normalsituation, Eintritt des Schadensereignis, alle benötigte Infos zur aktuellen Lage, Auftrag (entspricht Alarmierung)
+ 
+???
+
+- Ausgangslage = "blaue Lage" da meist auf blauem Papier
+
+---
+
+# Tests und Übungen
+
+### Dokumente
+
+- __Übungsdrehbuch:__
+
+<img style="width:90%" src="https://github.com/jtigit/SicherheituZuverlaessigkeit2019/docs/Praesentation/Präsentation/Bilder/K8_Uebungsdrehbuch.png">
+<div style="font-size: 0.5em; text-align: center">Darstellungsmöglichkeit Übungsdrehbuch (BSI-Standard 100-4 S.94)</div>
+
+---
+
+# Tests und Übungen
+
+### Dokumente
+
+- __Test- und Übungsprotokoll:__
+
+ - Durchführung und Ablauf sorgfälltig zu protokollieren:
+ 
+ - Ablaufplan, Verhalten der Teilnehmer, genutzte Methoden, genutzte Werkzeuge (inkl. deren Konfiguration), erzielte Resultate
+ 
+ - besonders aufgetretene Probleme und Abeichungen vom Plan festhalten
+ 
+ - Grundlage für Auswertung und daraus resultierender Ermittlung von Schwachstellen und Verbesserungsvorschlägen
+ 
+---
+
+# Tests und Übungen
+
+### Durchführung von Tests und Übungen
+
+- beachten, dass normaler Geschäftsbetrieb nicht gestört wird --> am besten außerhalb normaler Geschäftszeiten durchführen
+
+- beachten, dass Systeme, Mitarbeiter etc. nicht für normalen Geschäftsbetrieb verfügbar (oder eingeschränkt) sind
+
+- Maßnahmen zum Sicherstellen der Kontrolle der Übung, sodass diese selbst keine Störung hervorruft --> Abbruchkriterien und Fallback-Lösungen für ernstfall vorbereiten
 
 ???
-+ Diese Daten werden den geplanten Kosten graphisch gegenübergestellt
 
-+ Das Management bestimmt wie jeder Projektbeteiligte seinen Aufwand kontiert und erfasst
-
-+ Fehleinschätzung des Aufwands durchs Management
-    + gering qualifizierte Mitarbeiter
-    +unpräzise Aufgabenbeschreibung
-    + unzureichende Motivation der Mitarbeiter
-    + Fehler in der Kontierung
-
-+ Ursachen für ein zu niedrigen Aufwand sind
-
-   + Überschätzter Zeitaufwand
-   + Mitarbeiter haben noch nicht mit der Arbeit begonnen oder sind nicht verfügbar
+- Abbruchkriterien z.B. Überschreitung einer Zeitspanne, Erkenntnis über Nichtwirken der Maßnahmen
 
 ---
-
-# Kontrolle
-
-### Artefakt-Fortschrittsgrad
-
-+ Modellierung und Auswertung über Zustandsautomaten
-
-+ Beispiel: Burn Down Chart
-
-  +  Wie viele Artefakte sind im Projekt enthalten
-  
-  +  Wie viele Artefakte haben welchen Zustand
-  
-  +  Wie sieht die Termintreue von Artefakten aus
-  
-  +  Gibt es abweichende Entwicklungen und worin liegen die Ursachen
-  
-???
-+ Quotient aus verbuchtem Aufwand für das Artefakt und dem geplantem Aufwand gebildet.
-
-
----
-
-# Planung
-
-### Changemanagement
-
-+ Antwort auf variable Rahmenbedingungen
-
-+ Kunde ändert Bedingungen
-
-+ Änderungen innerhalb des Projekts.
-
-+ Auswirkungen von Änderungen auf Mitarbeiter und des Systems
-
-???
-+ (innerhalb) Fehler im Entwurf sein oder Qualitätsmängel oder Optimierungsbedarf an Performance und Skalierbarkeit
-
-+ Änderungen beeinflussen auch den Aufwand einzelner Mitarbeiter 
-
-+ Erfassung der Änderungen, mit Risikobewertung und Aufwandschätzung
-
----
-
-# Kontrolle - Steuerung
-
-+ Regelmäßiges Anfertigen von Projektstatusberichten
-
-+ Auswertung und Bewertung
-
-+ Qualitätssicherung, Fehlermanagement
-
-+ Dokumentation und Behandlung von Fehlern
-
-+ "Aus Fehlern lernen"
-
----
-
-# Systementwicklung
-
-+ Systemanalyse und Spezifikation
-
-+ Systementwurf und Architektur
-
-+ Implementierung und Test
-
-+ Integration und Test
-
-+ Transition in die Einsatzumgebung und Abgabe
-
-???
-+ (1) sorgt für die Einrichtung einer guten Kommunikationsumgebung mit dem Kunden, sowie erforderliche Weiterbildungen der Mitarbeiter und Einbindung von externen Fachkräften
-+ (1) Die Anforderungen genau zu spezifizieren ist Aufgabe des Managements 
-+ (2) Auswahl einer geeigneten Architektur. Team Aufteilunng Schnittstellen,Fehleranfälligkeit
-+ (2) Kommunikationswege zwischen den Teams
-+ (3) Die Rahmenbedingungen aufrechterhalten für die MItarbeiter
-+ (3) Achten auf Codequalität und Dokumentation und Tests
-+ (4) integrieren von Modulen in Teilsysteme und Testen
-+ (4) stufenweises integrieren von teilsystemen in größere mit tests
-+ (5)  Die Termine müssen koordiniert werden, die Abnahmeprozeduren müssen festgelegt werden
-+ (5)  Einsatzumgebung beim kunden oder selber stufenweisie simullieren
-
----
-
-# Projektdurchführung
-
-- <img style="width:100%" src=" https://rleikam.github.io/SW-PM-WS2018-Gruppe_1_4-2-Praesentation/Pr%C3%A4sentation/Bilder/projektregelkreis.png">

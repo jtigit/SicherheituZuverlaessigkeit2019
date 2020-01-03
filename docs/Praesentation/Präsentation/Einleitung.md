@@ -1,4 +1,5 @@
 class: center, middle
+count: false
 
 # Projektorganisation und Management
 

@@ -1,3 +1,3 @@
 class: center, middle
 
-# Projektdurchführung
+# Tests und Übungen

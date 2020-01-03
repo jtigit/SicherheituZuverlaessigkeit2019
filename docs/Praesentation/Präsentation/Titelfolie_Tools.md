@@ -1,3 +1,3 @@
 class: center, middle    
 
-# Werkzeuge
+# Tool-Unterstützung
