@@ -255,7 +255,7 @@ name: Tests_Uebungen
 
 - __Übungsdrehbuch:__
 
-<img style="width:90%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K8_Uebungsdrehbuch.png">
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K8_Uebungsdrehbuch.png">
 <div style="font-size: 0.5em; text-align: center">Darstellungsmöglichkeit Übungsdrehbuch (BSI-Standard 100-4 S.94)</div>
 
 ---
@@ -291,3 +291,127 @@ name: Tests_Uebungen
 - Abbruchkriterien z.B. Überschreitung einer Zeitspanne, Erkenntnis über Nichtwirken der Maßnahmen
 
 ---
+
+# Tests und Übungen
+
+### Rollen
+
+- __Übungsautor:__
+
+ - erstellt und plant Übungen und alles drumherum
+ 
+ - kann auch vom Notfallbeauftragten oder dem Leiter des Krisenstabs wahrgenommen werden
+ 
+- __Vorbereitungsteam:__
+
+ - helfen Übungsautor
+ 
+ - können Leiter von Organisationseinheiten oder Prozessverantwortliche sein
+ 
+???
+
+- Rollen bei Planung, Vorbereitung, Durchführung
+
+---
+
+# Tests und Übungen
+
+### Rollen
+
+- __Übungsleiter/Moderator:__
+
+ - zentrale Rolle bei Durchführung  
+   eröffnet Übung, koordiniert Einlagen, entscheidet über Abweichungen oder Alternativen, beendet Übung
+   
+- __Kernteam:__
+
+  - Übungsleiter unterstützt durch Rahmenleitungsgruppe  
+    dazu gehören ein oder mehrere Protokollanten, Übungsautor, Notfallbeauftragte, evtl. Beobachter
+	
+  - fachliche Beratung, Beantwortung von Anfragen der Teilnehmer, Einspielen von Einlagen zur Lagedarstellung in Übungszene
+  
+---
+
+# Tests und Übungen
+
+### Rollen
+
+- __Protokollant:__
+
+ - erfasst detailliert Ablauf, evtl. mehrere Notwendig (für mehrere Perspektiven)
+ 
+- __Beobachter:__
+
+ - können neben Protokollanten zugelassen werden, können Mitglieder interner Revision, anderer Bereiche oder von Extern sein
+ 
+ - greifen nicht in Geschehen ein, werden bei Bewertung hinzugezogen
+ 
+???
+
+- externe Beobachter z.B. Vertreter von Behörden / Hilfsorganisationen etc. sein
+
+---
+
+# Tests und Übungen
+
+### Rollen
+
+- __Akteure:__
+
+ - spielen bei Notfallszene mit
+ 
+ - können Prozessverantwortliche, Verantwortliche von Organisationseinheiten, Vertreter von Mitarbeiter oder Management, Kunden, Dienstleister, Zulieferer etc. sein
+ 
+ - von externen Personen besser absehen wenn Notfallmanagement in Aufbau
+ 
+---
+
+# Tests und Übungen
+
+### Ablauf
+
+- __Planung und Freigabe:__
+
+ - Szenario und benötigte Dokumente erstellen
+ 
+ - Zwischenentwurf genehmigen lassen
+ 
+- __Vorbereitung:__
+
+ - Vorraussetzungen für Übung schaffen:  
+   Umgebung einrichten, Vorsichts- und Sicherheitsmaßnahmen durchführen, etc.
+   
+ - Teilnehmer je nach Kenntnisstand informieren, Einsatzbesprechung kurz vor Übung
+
+???
+
+- Ablauf in vier Phasen
+
+---
+
+# Tests und Übungen
+
+### Ablauf
+
+- __Durchführung:__
+
+ - Übungsleiter startet alles, informiert Akteure (leitet sie an), verhindert Chaos mit möglichst wenig Grenzen  
+ 
+ - Protokollanten protokollieren mit Datum, Uhrzeit, Anmerkungen, eigenem Namen
+
+ - Übungsleiter beendet Übung offiziell, alles auf Normalzustand zurücksetzen, kurze Abschlussbesprechung
+ 
+---
+
+# Tests und Übungen
+
+### Ablauf
+ 
+- __Nachbereitung:__
+
+ - Auswertung in vordefinierten Teilnehmerkreis
+ 
+ - Ergebnisse mit Ziele vergleichen, Schwachstellen analysieren, Verbesserungen für Übungen und Notfälle finden
+ 
+ - Auswertung dokumentiern, Übungsleiter fertigt Abschlussbericht und kommuniziert diesen an Institutionsleitung  
+   Verantwortlichkeiten und Maßnahmen zur Beseitigung der Mängel inkl. Umsatztermine festlegen, durch Notfallbeauftragten kontrollieren
