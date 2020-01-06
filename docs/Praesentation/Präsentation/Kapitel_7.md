@@ -1,824 +1,409 @@
-name: Projektdefinition
+name: Ablauforganisation
 
-# Einleitung
+# Ablauforganisation
 
-+ Ergibt Doku über getroffene Vereinbarungen zwischen Vertragspartnern über
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K7_Ablauf.png">
+<div style="font-size: 0.5em; text-align: center">Ablauf (BSI-Standard 100-4 S.91)</div>
+
+---
+# Notfallhandbuch
+
++ dokumentiert Vorgehensweise / Hilfestellung
++ gliederung:
 --
 
 
-	+ Arbeiten für das Projekt
+	+ nach Phasen
 	
-	+ Zu liefernde Produkte und Dienstleistungen
+	+ nach Verantortungsebenen/-bereich oder Rollen
 	
-	+ Breite und Tiefe dieser
+	+ nach Prozessen
+--
+
++ prinzipien:
 --
 
 
-+ Bildung Projektteam
+	+ häufig ändernde Infos -> zentral zusammenfassen
+	
+	+ relevante Teile schnell und gezielt finden
+	
+	+ aktuell und präzise formuliert
+--
 
-+ Einrichtung Projektinfrastruktur
-
-+ Weitere organisatorische Vorgaben
-
----
-# Einleitung
-
-+ __Grundlage:__ Projektdefinition
++ inhalte:
 --
 
 
-+ Findet meist nach Projektvorlauf statt
+	+ Sofortmaßnahmenplan
+	
+	+ Krisenstableitfaden
+	
+	+ Geschäftsfortführungsplan
+	
+	+ Wiederanlaufpläne
 --
+---
+# Meldung
 
-
-+ "Spielregeln" für das Projekt werden am Anfang festgelegt
-
-+ Alle Informationen können in Projekt- und Qualitätssicherungs(/QS-)Handbuch zusammengefasst werden
---
-
-
-+ Pläne basieren auf Leistungsbeschreibungen und Auftrag
-
-+ Meilensteine, zu erledigende Arbeit, benötigte Ressourcen, vorhandenes Budget definiert
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K7_meldung.png">
+<div style="font-size: 0.5em; text-align: center">Meldung (BSI-Standard 100-4 S.91)</div>
 
 ---
-# Einleitung
+# Meldung
 
-### Benötigte Inhalte und Vorgänge
++ festgelegter Format
 
-+ Projektorganisation
++ kurz
 
-+ Definition eines Projektmanagementsverfahrens
-
-+ Definition eines QS-Verfahrens
-
-+ Aufbau der Projektinfrastruktur
-
-+ Projekt und Arbeitsplanung
++ nur Tatsachen
 
 ---
-# Projektorganisation
---
 
+# Informationsverarbeitung
 
-+ Verantwortlichkeiten und Rechenschaftspflichten
-
-+ Verteilung von Projektrollen und Projektverantwortlichkeiten
-
-+ Technische Einzelheiten
-
-+ Gut darstellbar in hierarchischen oder Matrixformat
-
----
-# Projektorganisation
-
-+ Bestimmung Projektleiter und Gremien
---
-
-
-+ Projektleiter:
-
-	+ Muss zuerst alle Infos zusammentragen, aufbereiten, für Team bereitstellen
---
-
-
-+ Gremien:
-	
-	+ Teil der Projektsteuerung
-	
-	+ Dokumentieren Verantwortlichkeiten
-	
-	+ Haben festgelegte Befugnisse, Entscheidungsräume, Arbeitsmittel, Ansprechpartner für Projektleitung
-	
-	+ Müssen nicht von intern kommen
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K7_schwellenwert.png">
+<div style="font-size: 0.5em; text-align: center">schwellenwert (BSI-Standard 100-4 S.91)</div>
 	
 ---
-# Projektorganisation
+# Verfahren
 
-+ Etablierte Verfahren für Projektdefinition:
---
-
-
-+ __PMBOK Guide__ (Guide to the Project Management Body of Knowledge):
-
-	+ International am weitesten verbreitet
-	
-	+ 5 Prozessgruppen: Initialisierung, Planung, Ausführung, Monitoring und Controlling, Endphase
-	
-	+ Für Projektdefinition: Entwicklung Projektcharta, Identifikation aller Stakeholder
---
-	
-	
-	+ Projektcharta: Anforderungen, Erwartungen, Ziele der Stakeholder (durchgehend verfeinert)
-	
-	+ Stakeholder: Personen oder Organisationen, die von dem Projekt unmittelbar betroffen sind oder einen Beitrag leisten
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K7_meldung.png">
+<div style="font-size: 0.5em; text-align: center">Meldung (BSI-Standard 100-4 S.91)</div>
 
 ---
-# Projektorganisation
 
-+ Etablierte Verfahren für Projektdefinition:
+# Verfahren
 
++ Plan für:
 
-+ __PRINCE2__ (Process Initiating a Project)
-
-	+ Schaffung solider (finanzieller) Grundlagen für Projekt
+	+ Eskalationsweg
 	
-	+ Instrumente: Risikomanagement, Qualitätsmanagement und -sicherung, Konfigurationsmanagement
+	+ Erreichtbarkeit der Kristenstabsmitglieder
 	
-	+ Business Case verfeinern, Projektplan erstellen
+	+ Erreichtbarkeit der externen Stellen
 	
----
-# Projektorganisation
-
-+ Etablierte Verfahren für Projektdefinition:
-
-
-+ __V-Modell XT__
-
-	+ Projekt- und QS-Handbuch erstellt
-	
-	+ Projekthandbuch: organisatorische Festlegung Management, schnelle Einarbeitung neuer Mitarbeiter
-	
-	+ QS-Handbuch: organisatorische Festlegung Qualitätsmanagement, beinhaltet Methoden, Rollen, Standards und Werkzeuge der QS
++ was tun bei nicht erreichen einer Stelle?
 
 ---
-# Definition eines Projektmanagementsverfahrens
+# Durchführung
 
-+ Prozesse zum Planen, Überwachen und Steuern des Projekts erstellen und dem Projektteam bereitstellen
---
++ Kette oder Sternförmig?
 
++ Zeitpunkt Meldung weitergeben
 
-+ Zu betrachtende Management- und Kommunikationsbereiche:
++ wann nur informieren / alarmieren
 
-	+ Risikomanagement
++ Grundsätze:
+
+	+ Benachrichtigung kurz und Präzise
 	
-	+ Problem- und Änderungsmanagement
+	+ Keine Diskussion und längere Ausführung der Lage
 	
-	+ Versions- und Konfigurationsmanagement
+	+ Klare nächste Schritte
 	
-	+ Kommunikations- und Berichtswesen
+	+ Aufruf Zeitnah nach dem Ereignis
 	
-	+ Berichtswege
+	+ Alarmierung vollständig dokumentieren
 	
----
-# Definition eines Projektmanagementsverfahrens
-
-### Risikomanagement
-
-+ Identifikation und Überwachung von Risiken
-
-+ Risikobegrenzung
-
-+ Festlegung Eskalationspfade
---
-
-
-+ _Eskalationspfad: Ansprechpartner bei bestimmten Problemen oder Konflikten_
---
-
-
-+ Dokumentation z.B. mit Risikoliste mit Prüfungen an Entscheidungszeitpunkten
-
----
-# Definition eines Projektmanagementsverfahrens
-
-### Problem- und Änderungsmanagement
-
-+ Erfassung und Überwachung der Stati von Änderungsforderungen und Problemmeldungen
---
-
-
-+ Änderungen sollen erschwert werden: lontraproduktive vermeiden, sinnvolle nicht verhindern
---
-
-
-+ Dokumentation z.B. mit Änderungsstatusliste, bei Projekttreffen geprüft und besprochen
-
----
-# Definition eines Projektmanagementsverfahrens
-
-### Versions- und Konfigurationsmanagement
-
-+ Systematiken geben vor: Organisation Datenbestände, Versionsverwaltung, generelle Werkzeuge
-
-+ Berichtswesen, Einbettung Änderungsverfahren, evtl. Berücksichtigung Trainingspläne
-
-+ Organisatorische Ramenbedingungen
-
----
-# Definition eines Projektmanagementsverfahrens
-
-### Kommunikations- und Berichtswesens
-
-+ Kommunikationsmanagementplan erstellen, Projektinformationsfluss damit beschreiben
-
-+ Kommunikationspartner und auszutauschende Informationen
---
-
-
-+ Unkontrollierten Informationsfluss vermeiden
-
----
-# Definition eines Projektmanagementsverfahrens
-
-### Berichtswege
-
-+ Form und Aufbau von Berichten für Auftragnehmer und -geber
-
-+ Ersteller, Adressat, Form, Inhalt, Häufigkeit jeglicher Berichte dokumentieren
---
-
-
-+ Einfache und effiziente Kommunikation
-
-+ Dokumentation z.B. mit Kommunikationsmatrix
-
----
-# Definition eines QS-Verfahrens
-
-+ Erster, grober QS-Plan bei Projektentstehung enthält wesentliche Festlegungen aus Angebot und Vertrag, wird weiter konkretisiert
---
-
-
-+ Unterbereiche dafür:
-
-	+ Organisation des QS-Verfahrens
-	
-	+ Methoden der Qualitätssicherung
-	
-	+ Einbettung der QS in das Projektmanagement
+	+ Kommunikationgeräte: z.B Telefon, Parser
 	
 ---
-# Definition eines QS-Verfahrens
+# Sofortmaßnahmen
 
-### Organisation des QS-Verfahrens
++ Informationen und Anweisungen im Notfallhandbuch
 
-+ Was muss wie geprüft werden
-
-+ Anteil Eigenprüfung Mitarbeiter
-
-+ Sicherstellen: QS unabhängig von Projektmanagement bei gleicher Autorität, durch verschiedene Personen beachtet
-
----
-# Definition eines QS-Verfahrens
-
-### Methoden der Qualitätssicherung
-
-+ Vorbereitungsvorgänge der Ersteller (Entwickler) für Prüfung
-
-+ Immer auf Sinn achten und mit gewisser Eigenprüfung rechnen
-
-+ Was kann die QS wie erreichen
-
----
-# Definition eines QS-Verfahrens
-
-### Einbettung der QS in das Projektmanagement
-
-+ Hohen Stellenwert gewährleisten
-
-+ Eigenständiger Bereich mit eigenen Eskalationspfade, Kommunikationsschnittstellen zu anderen Managementbereichen, Mitspracherecht bei Planung
-
-+ Möglichkeiten zu Kontrolle und Steuerung von Arbeitauträgen
-
-+ Überwachung von Arbeitsabschnitten
-
----
-# Aufbau der Projektinfrastruktur
-
-+ Angemessene Werkzeuge, die das Projektteam entlasten, suchen und festlegen
---
-
-
-+ Bezieht sich auf:
-
-	+ Hardwarumgebung
+	+ wer darf Sofortmaßnahmen durchführen
 	
-	+ Kommunikationsinfrastruktur
+	+ Rollen festgelegt
 	
-	+ Projektablage
-	
-	+ Softwareproduktionsumgebung
++ Beispiel: bei einem Brand, mit dem Feuerlöscher die Flamme löschen.
 	
 ---
-# Aufbau der Projektinfrastruktur
+# Krisenstab
 
-### Hardwareumgebung
+### Krisenstabraum
 
-+ Anforderungen aus Vertrag, technische Doku, diverse Anforderungen, sonstige Randbedingeiungen zusammentragen und evaluieren
++ Lage:
 
-+ Die geplante Umgebung beschaffen, einrichten, Projektteam bereitstellen
+	+ zentral zum Haupstandort
+	+ bei ausfall, zweiter Standort weiter weg
++ beachten:
 
-+ Danach weitere Bereiche betrachtbar
-
----
-# Aufbau der Projektinfrastruktur
-
-### Kommunikationsinfrastruktur
-
-+ Anforderungen von Projektorganisation, sollte Partner für dieses sein
-
-+ Weitere von vertraglichen Randbedingungen und weiteren Gegebenheiten
-
-+ Umfasst Datenleitungen, Telefone und Faxe, Anbindung an Verfahren, zentrale Ablagen etc.
-
----
-# Aufbau der Projektinfrastruktur
-
-### Projektablage (Project Repository)
-
-+ Vorher bestimmt, wird weiter verfeinert
-
-+ Vertagliche Bestimmungen, Umfang Projekt, Räumliche Verteilung des Projektteams betrachten
-
-+ Struktur, technische Basis der Ablage dokumentieren und bereitstellen
-
-+ Projektmanagement meist einzelne Ablage
-
----
-# Aufbau der Projektinfrastruktur
-
-### Softwareproduktionsumgebung
-
-+ Wesentlicher Faktor der Entwicklungsproduktivität
-
-+ Auf Team abstimmen
-
-+ Entscheidungsvorgang ansonsten ähnlich wie zuvor
-
----
-# Projekt und Arbeitsplanung
-
-+ Grober Plan schon von Projektentstehung, bietet Grundlage für detaillierte Version aus Projektdefinition
---
-
-
-+ Rahmenbedingungen des Projekts
-
-+ Genug Handlungsspielraum für spätere Veränderungen
---
-
-
-+ Grundlage Projektdurchführung
-
-+ Möglichkeit Überwachung von Abweichungen
-
-+ Basis Umsetzung Ziele und Regelungen der Prozesse
-
----
-# Projekt- und Arbeitsplanung
-
-+ Unterteilung für bessere Übersichtlichkeit
---
-
-
-+ Top-Level
-
-	+ Grobe richtungsweisende Vorgaben für Projekt
---
-
-
-+ Detail-Level
-
-	+ Vorgaben des Top-Levels in detaillierten Plänen
-
----
-# Projekt- und Arbeitsplanung
-
-## Inhalt
---
-
-
-+ Projektplan besteht aus mehreren Planungsbestandteilen
-
-+ Können miteinander verknüpft sein, werden im Top-Level eingeteilt
---
-
-
-+ Mindestens enthalten:
-
-	+ Projektstrukturplan
-
-	+ Arbeitspakete
+	+ Ausreichend Platz
 	
-	+ Zeit-/Terminplan
+	+ Zugang immer möglich
 	
-	+ Meilensteinplan
+	+ Sicher
 	
-	+ Schätzungen
+	+ Technische Ausstatungen
 	
----
-# Projekt- und Arbeitsplanung
+	+ Klimaanlage
 
-### Projektstrukturplan
-
-+ Technische und logische Abhängigkeiten zwischen Arbeitspaketen
-
-+ Komplexe Probleme in Teilprobleme teilen bis Sinnvoll für Projekt
-
-+ Methoden dafür: Top-Down und Bottom-Up
 
 ---
-# Projekt- und Arbeitsplanung
+# Krisenstab
 
-### Projektstrukturplan
+### Aufgaben und Kompetenzen
 
-+ Top-Down:
++ Hauptaufgaben:
+
+	+ betroffenen Bereich festlegen
 	
-	+ Gesamtes Problem schrittweise zerlegen und verfeinern
+	+ Entscheidungen treffen
 	
-	+ Vorgeschriebene Strukturierungskriterien einhalten
+	+ Notfallteam koordinieren
 	
-		+ Ergeben sich durch Aufteilung nach unterschiedlichen Projekten
++ Teilaufgaben:
+
+	+ Informationsbeschaffung, -auswertung, -aufbereitung
+	
+	+ erfassen + bewerten der aktuellen Lage
+	
+	+ Entwickeln von Handlungsoptionen und Bewertung in Bezug auf Erfolgsaussichten, Folgerisiken und Rahmenbedingungen
+	
+	+ Festlegung von Maßnahmen und überwachung der Wirksamkeit und korrektur
+	
+	+ Kommunikation mit Partner, Mitarbeiter..
+---
+# Krisenstab
+
+### Lagefeststellung
+
++ benötigte Informationen:
+
+	+ Art und Umfang der Beeinträchtigung
+	
+	+ Schäden und ihre vorraussichtliche Entwicklung
+	
+	+ Zeitpunkt des Geschehens
+	
+	+ Zahl der betroffene Personen
+	
+	+ akute Gefahren
+	
+	+ Zustand der Versorgungs- und Verkehrsnetztes
+	
+	+ bereits ergriffene Maßnahmen und ihre Auswirkungen
+	
++ Quellen:
+
+	+ Meldungen
+	
+	+ Unterlagen
+	
+	+ Krisenstab ermittlung
+	
++ Gesamtbild erstellen:
+
+	+ Jede Meldung einzelt bewerten
+	
+	+ Reihenfolge der Meldung und die meldende Person miteinbeziehen
+	
+	+ zusatzinfo: Umgebung, Klima, infos zu betroffende Personen
+
+---
+# Krisenstab
+
+### Lagebeurteilung
+
++ Was kann als nächstes noch geschehen? Was noch im Weiteren?
++ Welche Auswirkungen sind möglicherweise zu erwarten?
++ Wie kann die weitere Ausbreitung des Schadens eingeschränkt werden?
++ Wie kann der schon entstandene Schaden behoben werden?
+
+---
+# Krisenstab
+
+### Maßnahmen finden
+
++ Mögliche Vorgehensweise entwickeln z.B:
+
+	+ Erfolgsaussichten bewerten
+	
+	+ Vor- und Nachteile abwiegen
+	
+	+ Effektivität einschätzen
+	
+	+ positive und Negative Auswirkungen ermitteln
+	
+	+ eine Strategie zur Bewältigung der Krise
 		
-		+ z.B. Disziplinen, Architektur, Aufbau des Projekts, Verantwortungsbereiche
+		+ richtige Mittel
+		
+		+ zur richtigen Zeit
+		
+		+ Am richtigen Ort
 	
-	+ Auf gute Abgrenzung der Teilaufgaben achten
+	+ verfügbaren Ressourcen berücksichtigen
+	
+	+ nicht alleine entscheiden
 
 ---
-# Projekt- und Arbeitsplanung
+# Krisenstab
 
-### Projektstrukturplan
+### Maßnahmen durchführen
 
-+ Bottom-Up:
++ Lösungen in einzelne Aufgaben aufteilen
 
-	+ Alle möglichen Teilaufgaben finden und einordnen
++ Aufgaben auf Notfallteam / Krisenteam verteilen
 
-	+ Besser für Kreativtechniken zur Projektumfangbestimmung (Brainstorming, Stakeholderworkshops)
-	
-	+ Erfordert nicht das strikte Vorgehen der Top-Down-Methode
++ Auswirkungen kontrollieren und  bewerten
 
----
-# Projekt- und Arbeitsplanung
-
-### Projektstrukturplan
-
-+ Bedingungen Projektstrukturpläne:
-
-	+ Arbeitspakete in sich geschlossen
-	
-	+ keine Überdeckung der Elemente
-	
-	+ Aufgaben dürfen bei Zerlegung nicht verloren gehen
-	
-+ Gewöhnlich in Baumstruktur gegliedert
-
-+ Ansichten mit Infos zu Teams, Rollen, eingebundene Personen etc. möglich
-
-+ Bei Softwareentwicklung kann auch System- und Softwarearchitektur enthalten sein
-
----
-# Projekt- und Arbeitsplanung
-
-### Arbeitspakete
-
-+ Beschreibung einzelner Tätigkeiten mit dazugehörigen Infos
---
-
-
-+ Können in weitere Teilarbeitspakete unterteilt sein
-
-+ Dokumentiert in Tätigkeitsliste
---
-
-
-+ Erst grob vorhanden - beim Fortschreiten des Projekts immer weiter verfeinern
-
-+ Müssen dabei auf Notwendigkeit und Sinnhaftigkeit geprüft werden
-
-+ Bei Durchführung überwachen (Statusmeldungen, Workflows, Zustände)
-
----
-# Projekt- und Arbeitsplanung
-
-### Ressourcen- und Terminpläne
-
-+ Beginn- und Enddaten, Dauer, weitere Zeitliche Infos zu Arbeitspaketen oder gesamte Abschnitte inkl. Ressourcen
---
-
-
-+ Ressourcen sind für die Projektdurchführung benötigte Mittel:
-
-	+ Verbrauchsgüter mit einmaliger Nutzung (z.B. Budget)
-	
-	+ mehrfach nutzbare Gebrauchsgüter (z.B. Server, Personal)
---
-
-
-+ Pläne von Projektstrukturplan abgeleitet, sollte weniger Änderungen haben
-
-+ Abletung ergibt: Einsatzplan, Personal- und Ressourcenanforderungen, Aufwand und Termine der Tätigkeiten, Terminliste mit Meilensteinen, voraussichtlichen Kostenverlauf
-
-+ Grundlage für Durchführung, Effizienzsteigerung, Visualisierung von Auslastung der Teammitglieder
-
----
-# Projekt- und Arbeitsplanung
-
-### Meilensteinplan
-
-+ Wesentliche Kontrollpunkte (Quality Gates) und Zielpunkte
-
-+ Kann in Projektstrukturplan integriert sein
---
-
-
-+ Meilensteine sind bestimmte, zu erreichende Entwicklungsstände (Projektfortschrittsstufen)
-
-+ In regelmäßigen, kurzen Abschnitten (3 - 4 Wochen) verteit und geprüft
-
-+ Möglichkeit Überwachung und Überprüfung Projektfortschritt und -qualität
---
-
-
-+ Blockierende Meilensteine (z.B. Projektgenehmigung, Abnahmen) früh im Projekt festzulegen (meist außerhalb des eigentlichen Projektteams)
-
-+ Sorgfältig planen, da schwer oder gar nicht zu verschieben
-
----
-# Projekt- und Arbeitsplanung
-
-### Schätzungen
-
-+ Über Aufwand einzelner Arbeitspakete oder Gesamtprojekt
-
-+ Auch Teil der Ressourcen- und Finanzplanung
-
----
-# Projekt- und Arbeitsplanung
-
-### Weitere Bestandteile
---
-
-
-+ Neben den wesentlichen auch sinnvoll:
-
-	+ Mitarbeiterprofil
-	
-	+ Projektbudgetplanung
-	
-	+ Zahlungsplan
+	+ -> ggf. neue Maßnahmen anwenden bis Normalzustand erreicht wurde
 	
 ---
-# Projekt- und Arbeitsplanung
+# Krisenstab
 
-### Weitere Bestandteile
+### Deeskalation
 
-+ Mitarbeiterprofil
-
-	+ Doku über Menge und Art benötigter Mitarbeiter
-	
-	+ muss mit Firmenkontingent abgeglichen werden
---
-
-
-+ Projektbudget
-
-	+ Rahmen für anfallende Kosten, Vorgabe für Überwachung
---
-
-
-+ Zahlungsplan
-
-	+ Vertraglich getroffene Vereinbarungen mit Auftraggebern, Unterauftragnehmern und sonstigen Anbietern über Rechnungen und Zahlungen
-	
-	+ Zeitpunkt und Beträge
-	
-	+ Evtl. auch regelmäßig besorgte Betriebsmittel
-	
----
-# Projekt- und Arbeitsplanung
-
-## Darstellung
---
-
-
-+ Unterschiedliche Techniken dafür
-
-+ Hier betrachtet: Netzplan- und Balkenplantechnik
++ Notfall überstanden -> Krisenstab wird aufgelöst
 
 ---
-# Projekt- und Arbeitsplanung
+# Geschäftsfortführung
 
-### Netzpläne
---
-
-
-+ Darstellung logischer Beziehungen zwischen Arbeitspaketen und zeitliche Anordnung dieser
---
-
-
-+ Zeitpunkte für die Tätigkeitsdurchführung nicht nur darstellbar sondern auch berechenbar mit dieser Technik
-
-+ Basiert auf einfachem mathematischen Modell (Mengen und Funktionen)
-
-+ Gut dafür geeignet früh im Projekt zeitliche Faktoren und kritische Arbeitspakete abzuschätzen
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K7_Ablauf.png">
+<div style="font-size: 0.5em; text-align: center">Ablauf (BSI-Standard 100-4 S.91)</div>
 
 ---
-# Projekt- und Arbeitsplanung
+# Geschäftsfortführung
 
-### Netzpläne
++ oberstes Ziel = Geschäftsfortführung
 
-+ Grundsätzlich zwei Methoden:
++ wiederanlauf:
 
-	+ Deterministisch: angewendet wenn alles weitesgehend vorhersehbar
+	+ Maßnahmen und Verfahren 
 	
-	+ Probabilistisch: Arbeitspakete können ausgelassen werden, Ablauf mit Wahrscheinlichkeiten erstellt
+	+ Notbetrieb:
 	
-+ Unterschiedliche Methoden für deterministische (DIN 69901) z.B. Critical Path Method (CPM), Metra Potential Method (MPM)
---
+		+ reduzierte Ressourcen
+		
+		+ reduziert arbeitenden Betrieb mit Ausweichressourcen
+		
+		+ Alternativbetrieb
 
++ Wiederherstellung:
 
-+ Darstellung durch:
-
-	+ Knotenpunkte (Ereignisse)
-	
-	+ Pfeile (Vorgänge oder Abhängigkeiten)
+	+ Ressourcen zerstört => wiederhersttellem
 
 ---
-# Projekt- und Arbeitsplanung
+# Rückführung ins Normalbetrieb
 
-### Netzpläne
++ Ressourcen wieder da -> ins Normalbetrieb überführen
 
-+ Gute Darstellung von Daten zur Parallelität und Gesamtdauer
++ Reihenfolge fetlegen und zu welchem Zeitpunkt
 
-+ Entwicklungsprozess gut damit optimierbar
---
-
-
-+ Erkennung kritischer Pfade
-
-	+ Vorgangsketten mit Potential zur Verzögerung des gesamten Projekts
-	
-	+ Mindestens einmal im Plan vorhanden
-	
-	+ Auch in Teilplänen möglich
-	
-	+ Besonders darauf achten
+	+ vermeidet Probleme und Unstimmigkeiten => kein erneuter Zusammenbruch
 	
 ---
-# Projekt- und Arbeitsplanung
+# Nacharbeiten
 
-### Netzpläne
++ für jede Organisationseinheit Verantwortliche bennen
 
-+ Probleme:
-
-	+ Randbedingungen wie Krankheit o.ä. nicht beachtet
+	+ Arbeitsrückstände zusammenfassen
 	
-	+ Basieren auf "starren" und daher unrealistischen Abhängigkeiten
+	+ Abarbeitsplan festlegen
 	
-	+ Für mehr Dynamik müssten Vorgänge zu detailliert sein - zu viel Aufwand
---
-
-
-+ Eignet sich für grobe Planung und Darstellung dabei
-
-+ Softwarewerkzeuge empfohlen
+		+ aktuelle Abarbeitsbelstaung
+		
+		+ Arbeitsbelstaung während Notbetrieb
+		
+		+ arbeitsrechtliche Auflagen
+		
+		+ Strategische Vorgaben (überstunden, ..)
 
 ---
-# Projekt- und Arbeitsplanung
+# Analyse
 
-### Balkenpläne
---
++ Alle beteilgten zusammen
 
++ Schwäche erkennen und verbessern
 
-+ Bessere Darstellung von möglichen parallel ausführbaren Arbeitspaketen mit Berücksichtigung Ressourcenbeschränkung
---
-
-
-+ Gant-Diagramm für Darstellung geeignet
-
-+ Erste Zeile Zeitleiste, Spalten Zeitabschnitte
-
-+ Vorgänge und Infos dazu in folgenden Zeilen
-
-+ Dauer bzw. Anfang und Ende von Vorgängen durch Balken visualisiert
-
-+ Überlappungen möglich
-
----
-# Projekt- und Arbeitsplanung
-
-### Balkenpläne
-
-+ Abhängigkeiten zwischen Vorgängen in vernetzten Diagrammen
-
-+ Darstellung mit Pfeilen
-
-+ Können auch im Nachhinein hinzugefügt werden
---
-
-
-+ Varianten: personen- und aufgabenbezogen
-
-+ Pro Zeile z.B. Aufgaben mit Angaben zu Bearbeiter darstellen
-
-+ Gute Übersicht über Workload einzelner Personen
-
----
-# Projekt- und Arbeitsplanung
-
-### Balkenpläne
-
-+ Unterschiedliche Arten von Beziehungen und Abhängigkeiten: Anordnungsbeziehungen
---
-
-
-	+ Normalfolge (Ende-Anfang-Beziehung): Erste Aufgabe abschließen um zweite zu beginnen, keine Überlappung möglich
+	+ Umsatzverantwortliche bennen
 	
-	+ Anfangsfolge (Anfang-Anfang-Beziehung): Erste Aufgabe anfangen um zweite zu beginnen, Überlappung möglich
+	+ Umsatztermine bennen
 	
-	+ Endfolge (Ende-Ende-Beziehung): Erste Aufgabe abschließen um zweite zu beenden, Überlappung möglich
-	
-	+ Sprungfolge (Anfang-Ende-Beziehung): Erste Aufgabe anfangen um zweite zu beenden, keine Überlappung möglich
---
++ überwchen und berichten
 
-
-+ Meist wird die Ende-Anfang-Beziehung beachtet und später andere hinzugefügt
++ Üben und neu verifizieren
 
 ---
-# Projekt- und Arbeitsplanung
+# Einsatztagebuch
 
-## Philosophien
---
++ Alle durchgeführten Aktivitäten, Entscheidungen
 
++ schnell überblick bekommen
 
-+ Am Anfang der Projektplanung Philosophie festlegen
++ Inhalt:
 
-+ Grundlage von Aufbau und Planung
---
+	+ Zeitpunkt der Arbeit des Krisenstabes,
+	+ Lage (Art, Umfang und Abläufe der Ereignisse),
+	+ Eckpunkte aller getroffenen Entscheidungen sowie Namen und Rollen der daran Beteiligten und
+	+ beschlossene Maßnahmen, Verantwortliche für deren Umsetzung, Fertigstellungstermine und jeweiliger Umsetzungsstatus (Aufgabenüberwachung).
 
+---
+# Krisenkommunikation
 
-+ Hier vorgestellt:
+### interne Krisenkommunikation
 
-	+ Meilenstein-Orientierte Planung
++ Meldung
++ Eskalation
++ Alarmierung
++ Informationbeschaffung
++ koordinierung vom Notfallteam
++ kooperation mit externen Stellen
+
+---
+# Krisenkommunikation
+
+### externe Krisenkommunikation
+
++ Öffentlichkeit entscheided Ausmaß der Krise
+
+	+ Emotionen kanalisieren
 	
-	+ Fast Tracking
+	+ Ängste abzubauen bzw nicht entstehen lassen
 	
-	+ Time Boxing
++ Krisenkommunikationsplan:
+
+	+ Rahmenbedingung, Grundsätze, Sprachreglung
 	
-	+ Critical Chain
+	+ wer erstellt Information
 	
----
-# Projekt- und Arbeitsplanung
+	+ Zielgruppe
+	
+	+ welche tiefe
+	
+	+ Medium
+	
++ Ziele:
 
-### Meilenstein-Orientierte Planung
+	+ Bedürfnisse
+	
+	+ Werte
+	
+	+ Ziele
+	
+	+ Interesse
 
-+ Meilensteine Basis des Projektplans
-
-+ Zuerst Meilensteinliste erstellen
-
-+ Projektpläne davon ableiten und mit weiteren Informationen füllen
-
-+ Bei Problemen werden Meilenstein meist vor und zurück verschoben
-
----
-# Projekt- und Arbeitsplanung
-
-### Fast Tracking
-
-+ Meilensteinorientiert
-
-+ Legt Fokus auf massiv paralleles Arbeiten, daher besonders für produktorientierte Vorgehensweisen geeignet
-
-+ Entscheidungspunkte sind Zeitpunkte für Fertigstellung von Vorgängen
-
-+ Freie Planung von Aufgaben zwischen Entscheidungspunkten
-
-+ Abhängigkeitsstrukturen Randbedingung für Zuweisungen
 
 ---
-# Projekt- und Arbeitsplanung
+# Krisenkommunikation
 
-### Time Boxing
+### externe Krisenkommunikation
 
-+ Nicht meilensteinorientiert
++ Grundsatz:
 
-+ Regelmäßige, festgelegte Zeitpunkte (alle 4 - 6 Wochen) an denen Projektstand Überprüft wird
-
-+ Nicht fertiggestellte Vorgänge werden in den nächsten Abschnitt verschoben
-
-+ Agile Methoden basieren auf diesem Vorgehen
-
-+ Ist universell im Projekt einsetzbar (z.B. auch Management)
-
----
-# Projekt- und Arbeitsplanung
-
-### Critical Chain
-
-+ Erweiternde Philosophie
-
-+ Kerngedanke: Vermeidung von Multitasking
-
-+ Parallele Arbeiten werden reduziert
-
-+ Fokussieren auf das Wesentliche, Produktivität dadurch erhöhen
-
-+ Eine wesentliche Säule für Kanban
+	+ Öffentlichkeit rechtzeitig informieren
+	
+	+ wahre Aussagen
+	
+	+ Fakten + Emphatie
+	
+	+ keine Mutmaßungen und Speckulationen
+	
+	+ vereinfacht darstellen
+	
+	+ information abstrakhieren
 
 ---
-class: center, middle
-
-## Wichtig für die Projektplanung
-
-Es sollte immer auf den __Sinn und Zweck__ des Projektplans geachtet werden, da dieser sich sonst unter Umständen __negativ__ auf das Projekt auswirken könnte.
