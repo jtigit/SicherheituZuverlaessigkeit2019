@@ -74,7 +74,7 @@ Ziele:
 
 #  Notfallkonzept
 
-<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K5_Schaden.png">
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K5_Schaden2.png">
 <div style="font-size: 0.5em; text-align: center">Beispiel Schadensverlauf(BSI-Standard 100-4 S.39)</div>
 
 ---
