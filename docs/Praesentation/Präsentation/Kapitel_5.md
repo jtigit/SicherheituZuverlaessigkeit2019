@@ -95,7 +95,9 @@ Ziele:
 #  Notfallkonzept
 
 ### Phasen der Business Impact Analyse
-##### 5.Festlegung der Wiederanlaufparameter
-- Je Prozess wird mittels Ergebnisse der Schadensanalyse die
-	- max. tolerierbare Ausfallzeit ermittelt
-	- Wiederanlaufzeit errechnet
+##### 5.Priorisierung und Kritikalität der Geschäftsprozesse
+- Die Reihenfolge der Prozesse für den Wiederanlauf werden festgelegt
+- Festlegung von Kritischen Stufen anhand der Wiederanlaufzeit
+
+##### 6.Priorisierung und Kritikalität der Geschäftsprozesse
+---
