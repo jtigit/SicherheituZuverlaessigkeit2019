@@ -80,4 +80,6 @@ Ziele:
 	- max. tolerierbare Ausfallzeit ermittelt
 	- Wiederanlaufzeit errechnet
 
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K5_Wiederanlaufzeiten.png">
+<div style="font-size: 0.5em; text-align: center">Wiederanlaufparameter(BSI-Standard 100-4 S.41)</div>
 ---
