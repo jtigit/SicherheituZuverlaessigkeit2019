@@ -32,5 +32,5 @@ Prof. Dr. rer. nat. Christoph Thiel
 
 # Inhalt
 
-<img style="width:50%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K3_Ueberblick.png">
+<img style="height:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K3_Ueberblick.png">
 <div style="font-size: 0.5em; text-align: center">Ablauf (BSI-Standard 100-4 S.10)</div>
