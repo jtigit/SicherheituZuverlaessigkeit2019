@@ -56,7 +56,7 @@ name: Initiierung des Notfallmanagement-Prozesses
 
 - die Verpflichtung der Institutionsleitung, durch regelmäßige Überprüfungen, Tests und Übungen das Notfallmanagement zu optimieren
 
-- die relevanten Gesetze, Richtlinien und Vorschriften, die zu beachten sind, und
+- Relevante Gesetze, Richtlinien und Vorschriften, die zu beachten sind
 
 - die Übernahme der Verantwortung durch die Institutionsleitung, die zusätzlich durch die explizite Freigabe per Unterschrift dokumentiert wird
 
