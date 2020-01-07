@@ -95,9 +95,50 @@ Ziele:
 #  Notfallkonzept
 
 ### Phasen der Business Impact Analyse
-##### 5.Priorisierung und Kritikalität der Geschäftsprozesse
-- Die Reihenfolge der Prozesse für den Wiederanlauf werden festgelegt
-- Festlegung von Kritischen Stufen anhand der Wiederanlaufzeit
+##### 5.Berücksichtigung von Abhängigkeiten
+- Abhängige Prozessketten vererben die Wiederanlaufzeiten
+- Bewertung unter Mangel an Ressourcen: Personal, Material etc
 
 ##### 6.Priorisierung und Kritikalität der Geschäftsprozesse
+- Die Reihenfolge der Prozesse für den Wiederanlauf werden festgelegt
+- Festlegung von Kritischen Stufen anhand der Wiederanlaufzeit
 ---
+#  Notfallkonzept
+
+### Phasen der Business Impact Analyse
+##### 7.Erhebung der Ressourcen für Normal- und Notbetrieb
+- Tabelarische Erfassung von Ressourcen
+	- zb Email, Datenbankserver, Mitarbeiter A, etc
+- Je Prozess werden Anlaufzeit und Nutzunggrad der Ressource notiert
+
+- Für Kritische Prozesse, ist das nochmals für den Notbetrieb zu dokumentieren
+
+---
+#  Notfallkonzept
+
+### Phasen der Business Impact Analyse
+##### 8.Kritikalität und Wiederanlaufzeiten der Ressourcen
+- Prüfen ,ob eine Ressource von mehreren Prozessen genutzt wird 
+- Reihenfolge und Verfügbarkeiten von Ressourcen testen
+	- Email > Internetanbindung > Infrastruktur
+
+---
+#  Notfallkonzept
+
+### Risikoanalyse
+#### Ziele
+- bestehende Risiken gegenüber Entscheidungsträger transparent machen
+
+- Gegenmaßnahmen entwickeln, Risikominimierung
+
+- Szenarien entwickeln, für die individuelle Notfallpläne benötigt werden
+---
+#  Notfallkonzept
+
+### Kontinuitätsstrategien
+#### Ziele
+- beste Vorgehensweise für das Unternehmen zu identifizieren
+- Alternative Ausweichmöglichkeiten zu schafen
+	- Bsp Ausweich Rechenzentrum, Reservisten etc
+- Entwicklung der Strategien unter dem Kosten Nutzen Kriterium
+
