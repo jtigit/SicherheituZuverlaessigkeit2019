@@ -1,7 +1,7 @@
 class: center, middle
 count: false
 
-# Projektorganisation und Management
+# Notfallmanagement
 
 angefertigt von:  
 André Grellmann  
@@ -11,5 +11,5 @@ Waldemar
 
 <div>
 betreut von:<br>
-Prof. Dr. 
+Prof. Dr. rer. nat. Christoph Thiel 
 </div>
