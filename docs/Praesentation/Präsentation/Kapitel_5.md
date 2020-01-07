@@ -40,151 +40,44 @@ Ziele:
 
 ---
 
-# Aufrechterhaltung und kontinuierliche Verbesserung
+#  Notfallkonzept
 
-### Aufrechterhaltung
+### Phasen der Business Impact Analyse
+##### 1.Aufnehemen von Stammdaten und Geschäftsprozessen
+- Erstellung einer Prozessübersicht mit den Verantwortlichen Personen
+- Auflistung der Geschäftsziele und Prozessabhängigkeiten
 
-- Aktualität der Maßnahmen und Dokumente wichtig
+##### 2.Aussortierung von Organisationen und Prozessen
+- Organisationseinheiten sowie Prozesse außerhalb des Notfallmanagementbereichs werden begründet ausgeklammert
 
-- dafür Änderungstrigger in Geschäftsprozesse notwendig  
-
-- werden aktiv bei Änderungen von:
-
- - strategischen Ausrichtungen der Institution oder Geschäftsfelder
-
- - Rahmenbedingungen
-
- - Umgebung
-
- - Geschäftsprozessen
-
- - Personal
-
- - verwendeten Technologien
   
 ???
 
-- strategische Ausrichtung z.B. Priorisierung anderer Interessengruppen
+- 1.Aufnahme der Unternehmensstruktur und Lokalisationen
 
-- Rahmenbedingungen z.B. Auflage
+- 2.Aussortieren um die Arbeit effizienter zu machen
+---
 
-- Umgebung z.B. Lage der Institution oder Arbeitsplätze
+#  Notfallkonzept
 
-- zu geänderten Technologien zählen auch Updates
+### Phasen der Business Impact Analyse
+##### 3.Schadensanalyse
+- Je ausfahlender Prozess wird untersucht
+	- Höhe des Schadens
+	- Zeitliche Entwicklung des Schadensverlaufs
+- Prozesse werden nach Schadenskriterien bewertet
+- Besondere Termine für Ausfälle werden aufgenommen
+	- zb. E-Shop Serverausfall am Black Friday
+
 
 ---
 
-# Aufrechterhaltung und kontinuierliche Verbesserung
+#  Notfallkonzept
 
-### Überprüfungen
-
-- zeigen Verbesserungspotentiale und Mängel und helfen Empfehlungen auszusprechen
-
-- sollten in mehreren Ebenen erfolgen:
-
-- erste Selbstbewertung: Notfallbeauftragter oder -koordinator prüft:
- 
- - Abdeckungsgrad, Effiziens und Reifegrad des Notfallmanagements
- 
- - Anzahl umgesetzter Vorgaben inkl. deren Korrektheit
- 
- - Leben der vorgegebenen Prozesse
- 
----
-
-# Aufrechterhaltung und kontinuierliche Verbesserung
-
-### Überprüfungen
-
-- unabhängige Revision durch Innenrevision 
-
- - kompetente und unabhängige Prüfer durch Institutionsleitung beauftragt
-
- - besonderes Augenmerk auf Einhaltung interner und externer Richtlinien im Vergleich zu Standards und Best Practices
- 
- - Effektivität und Angemessenheit der Notfallmanagement-Prozesse prüfen
- 
- - Planung mit risikoorientierten Ansatz  
-   Prüfungsplan beinhaltet Ziele, Art, Umfang und Inhalte von Prüfungen und Rollen
-   
----
-
-# Aufrechterhaltung und kontinuierliche Verbesserung
-
-### Überprüfungen
-
-- unabhängige Revision durch Innenrevision
-   
- - alle relevanten Feststellungen dokumentieren und in Nachbearbeitung auswerten, Ergebnisse in Revisionsbericht mit Festellung auf Handlungsbedarf festhalten
- 
- - Beispiele Prüfungsmethoden: Dokumentenprüfungen, Interviews, Begehungen
- 
----
-
-# Aufrechterhaltung und kontinuierliche Verbesserung
-
-### Überprüfungen
-
-- externe Revisionen typischerweise durch Wirtschaftsprüfer oder Beratungsunternehmen
-
- - durch Aufsichtsorgane initiiert
- 
- - Methoden und Vorgehensweise meist durch Standards und Vorgaben gegeben
- 
----
-
-# Aufrechterhaltung und kontinuierliche Verbesserung
-
-### Überprüfungen
- 
-- durch Überprüfungen erkannte Probleme schnellstmöglich beheben
-
-- Notfallbeauftragter erarbeitet Maßnahmen und hält diese im Umsetzungsplan fest
-
-- Umsetzungsplan enthält
-
- - Zeitplanung
-
- - Ressourcenplanung
-
- - Verantwortlichkeitsbennenung
-
- - Vorgaben zur Überprüfung
- 
----
-
-# Aufrechterhaltung und kontinuierliche Verbesserung
-
-### Informationsfluss und Managementbewertung
-
-- Institutionsleitung braucht regelmäßige Managementberichte über Überprüfungen und Status des Notfallmanagement-Prozesses um dessen Stand und Entwicklung nachzuvollziehen
-
-- fällt Entscheidungen zu Steuerung und Lenkung, bewertet Status und veranlasst Korrekturmaßnahmen
-
-- muss neben Maßzahlen auch aktuelle Standards, Best Practices, Veränderungen oder neue Lösungen für verbesserte Effektivität beachten
-
-- es wird empfohlen, dass die Notfallvorsorge-Organisation der Leitungsebene konkrete Maßnahmenvorschläge zur Unterstützung der Entscheidungsfindung vorlegt
-
-???
-
-- Lösungen für verbesserte Effektivität z.B. neue Rechnik oder Software
+### Phasen der Business Impact Analyse
+##### 4.Festlegung der Wiederanlaufparameter
+- Je Prozess wird mittels Ergebnisse der Schadensanalyse die
+	- max. tolerierbare Ausfallzeit ermittelt
+	- Wiederanlaufzeit errechnet
 
 ---
-
-# Aufrechterhaltung und kontinuierliche Verbesserung
-
-### Informationsfluss und Managementbewertung
-
-- mögliche kerrektive Maßnahmen:
-
- - Anpassung von Budget, Ziele, der Leitlinie oder dem organisatorischen Aufbau der Notfallorganisation
- 
- - Strategieänderungen (einzelnt oder gesamt)
- 
- - Änderung von Verfahren oder Risikobereitschaft
- 
- - Anforderungen an Geschäftsprozesse oder Ausfallsicherheit
- 
-???
-
-- Anforderungen können regulatorisch oder vertraglich sein
