@@ -28,9 +28,6 @@ name: Ablauforganisation
 	+ aktuell und präzise formuliert
 
 
-	
----
-
 ---
 # Notfallhandbuch
 
@@ -155,6 +152,11 @@ name: Ablauforganisation
 	
 	+ Notfallteam koordinieren
 	
+---
+# Krisenstab
+
+### Aufgaben und Kompetenzen
+	
 + Teilaufgaben:
 
 	+ Informationsbeschaffung, -auswertung, -aufbereitung
@@ -186,6 +188,11 @@ name: Ablauforganisation
 	+ Zustand der Versorgungs- und Verkehrsnetztes
 	
 	+ bereits ergriffene Maßnahmen und ihre Auswirkungen
+	
+---
+# Krisenstab
+
+### Lagefeststellung
 	
 + Quellen:
 
@@ -235,10 +242,6 @@ name: Ablauforganisation
 		+ zur richtigen Zeit
 		
 		+ Am richtigen Ort
-	
-	+ verfügbaren Ressourcen berücksichtigen
-	
-	+ nicht alleine entscheiden
 
 ---
 # Krisenstab
@@ -376,6 +379,11 @@ name: Ablauforganisation
 	+ welche tiefe
 	
 	+ Medium
+
+---
+# Krisenkommunikation
+
+### externe Krisenkommunikation
 	
 + Ziele:
 
