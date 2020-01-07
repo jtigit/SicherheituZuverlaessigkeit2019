@@ -20,19 +20,21 @@ name: Ablauforganisation
 
 
 + prinzipien:
---
-
 
 	+ häufig ändernde Infos -> zentral zusammenfassen
 	
 	+ relevante Teile schnell und gezielt finden
 	
 	+ aktuell und präzise formuliert
---
+
+
+	
+---
+
+---
+# Notfallhandbuch
 
 + inhalte:
---
-
 
 	+ Sofortmaßnahmenplan
 	
@@ -41,7 +43,7 @@ name: Ablauforganisation
 	+ Geschäftsfortführungsplan
 	
 	+ Wiederanlaufpläne
---
+	
 ---
 # Meldung
 
