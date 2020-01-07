@@ -1,297 +1,104 @@
-name: Vorgehensmodelle
+name: Initiierung des Notfallmanagement-Prozesses
 
-# Vorgehensmodelle
+# Initiierung des Notfallmanagement-Prozesses:
 
-### Spiralmodell
+- Verantwortlichkeiten
 
-1. **Analyse** : In diesem Schritt werden die Vorrausetzungen, Anforderungen, Ziele und Vorstellungen an das Projekt festgehalten.
+- Leitlinie
 
---
+- Organisation aufbauen
 
-2. **Evaluierung** : In diesem Schritt werden die Lösungsidee und Umsetzungen untersucht um zu erkennen welche Risiken bestehen und wie oder ob man sie vermindern kann.
+- Bereitstellung von Ressourcen
 
---
-
-3. **Realisierung** : In der Realisierung wird alles umgesetzt dazu gehört alles vom Feinentwurf und Codierung bis zur Integration und den Tests.
-
---
-
-4. **Planung** : Am ende von jeden Durchgang wird ein Review des Durchlaufs gemacht und der nächste Durchlauf wird geplant
+- Mitarbeiter einbinden
 
 ---
 
-# Vorgehensmodelle
+# Verantwortung übernehmen
 
-### Prototyping-Spiralmodell
+- Mitglied der obersten Leitungsebene übernimmt Hauptverantwortung
 
-???
-**Prototypen** werden häufiger auch in Spiralform genutzt das heißt das im laufe der Entwicklung viele **Prototypen** entstehen. **Prototypen** können dazu benutzt werden bestimmte Funktionen zu testen und diese dann auf- oder auszubauen (evolutionäres **Prototyping**). Ebenfalls kann **Protoyping** benutzt werden um neue Optionen zu testen und zu vergleichen ob sie sich lohnen oder überhaupt realisierbar sind (experimentelles **Prototyping**).
+- und unterstützt aktiv alle Phasen
 
---
-**Prototyp** Arten:
+- Notfallbeauftragter delegieren
 
---
-
-* **Demonstratoren**: Wird in den frühen **Phasen** benutzt und zeigen den ungefähren weg des Projekts an.
-
---
-
-* **Labormuster**: Ist dazu da technische Fragestellungen beantworten zu können.
-
---
-
-* **Pilotsysteme**: Kann bereits vom Nutzern getestet und bewertet werden und geht somit in Richtung Ziel.
-
----
-# Vorgehensmodelle
-
-### Prototyping-Spiralmodell
-
---
-
-**Prototyp** Muster:
-
---
-
-* **Horizontal**: Demonstriert einen Ausschnitt des Endprogramms ohne auf andere **Ebenen** zu greifen (z.B Funktionale Eigenschaften vorerst ignorieren und die Nutzeroberfläche demonstrieren).
-
---
-
-* **Vertikal**: Nimmt einen Ausschnitt aus allen ebenen und deren Interaktion zum demonstrieren und kann somit auch Funktionalität in Kombination demonstrieren.
+- Leitungsebene muss für ausreichend Ressourcen sorgen (Personal, Zeit, Finanzen)
 
 ---
 
-# Vorgehensmodelle
+# Leitlinie entwickeln
 
-### Agile Methoden
+- Beschreibt Grundlegende Ziele und Rahmenbedingungen
 
---
-* Agilen Manifest
+- Koordinierung durch Notfallbeauftragten
 
+- Hinreichend qualifiziertes Team
 
---
-	* Individuals and interactions over processes and tools
-
-
---
-	* Working software over comprehensive documentation
-
-
---
-	* Customer collaboration over contract negotiation
-
-
---
-	* Responding to change over following a plan
-
+- Möglichst viele Fachbereiche beteiligen um eine breite Akzeptanz zu sichern
 
 ---
 
-# Vorgehensmodelle
+# Inhalt der Leitlinie
 
-### Agile Methoden
+- eine Definition für Notfallmanagement
 
+- den Stellenwert des Notfallmanagements für die Institution
 
-* **Refactoring:** Anpassung des Codes um unnötige Teile zu entfernen oder um Übersichtlichkeit zu Verbessern.
+- die Zielsetzung
 
---
+- die Kernaussagen der Notfallstrategie
 
-* **Pair Programming:** Ein Programm wird im Paar erstellt ein Programmierer programmiert der andere reviewt den Code.
+- den Geltungsbereich
 
---
+- das zugrunde gelegte Vorgehensmodell für das Notfallmanagement bzw. den zugrunde gelegten Standard (beispielsweise BSI-Standard 100-4)
 
-* **Test-driven Development**: Die Entwicklung orientiert sich and zuvor erstellte Tests und Ziel ist es nur diese Tests ohne Extras zu bestehen.
+- die Struktur der Aufbauorganisation mit den wichtigsten Rollen und deren Zuständigkeiten
 
---
+- die Verpflichtung der Institutionsleitung, durch regelmäßige Überprüfungen, Tests und Übungen das Notfallmanagement zu optimieren
 
-* **Continuous Integration:** Ziel ist es kontinuierliche weiterzuarbeiten und in kurzen abständen den neuen Teil zu Integrieren und mit automatisierten Tests zu überprüfen.
+- die relevanten Gesetze, Richtlinien und Vorschriften, die zu beachten sind, und
 
---
-
-* **Planning Game:** Ideen und Voraussetzungen werden Von Nutzern and die Entwickler geschickt die dazu dann schätzen ob es umsetzbar ist und ob es sich lohnt es überhaupt umzusetzen.
-
----
-
-# Vorgehensmodelle
-
-### Scrum
-
-* Im Backlog befinden sich alle Anforderungen
-
---
-
-* Die Anforderungen aus dem Backlog landen in **Sprints**
-
---
-
-* 30 Tage (Standard) ist ein **Sprint**
-
---
-
-* Nach jedem **Sprint** soll eine Lauffähige Version des Programms vorhanden sein
-
---
-
-* Nach jedem **Sprint** wird der **Sprint** vom **Projektteam** bewertet.
-
+- die Übernahme der Verantwortung durch die Institutionsleitung, die zusätzlich durch die explizite Freigabe per Unterschrift dokumentiert wird
 
 ---
 
-# Vorgehensmodelle
+- Die Leitlinie muss bekannt gegeben werden
 
-### RUP (Rational Unified Process)
+- Beteiligte des Notfallmanagements gesondert hinweisen
 
---
+- Regelmäßige Aktualisierung
 
-**RUP** folgt den folgenden drei **Grundprinzipen**:
-
-* RUP ist anwendungsfallgetrieben
-* Die Architektur steht im Zentrum der Planung
-* Das Vorgehen zur Entwicklung ist inkrementell/iterativ
-
---
-
-**RUP** teilt das Projekt in folgende **Phasen** und **Meilensteine**:
-
---
-
-* Inception / Lifecycle Objectives
-* Eloboration / Lifecycle Archetecture
-* Construction / Initial Operational Capability
-* Transistion / Product Release
+- Aktualisierung bei größeren Änderungen der Rahmenbedingungen
 
 ---
 
-# Vorgehensmodelle
+# Organisation aufbauen
 
-### RUP-Diziplinen
-
-Die **Phasen** sind in folgende  **Disziplinen** unterteilt:
-
-* Business Modeling
-
-
---
-* Requirements
-
-
---
-* Analysis & Design
-
-
---
-* Implementation
-
-
---
-* Test
-
-
----
-# Vorgehensmodelle
-
-### RUP-Diziplinen
-
---
-* Deployment
-
-
---
-* Configuration & Change Management
-
-
---
-* Project Management
-
-
---
-* Environment
-
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K4_Organisation.png">
+<div style="font-size: 0.5em; text-align: center">Ablauf (BSI-Standard 100-4 S.18)</div>
 
 ---
 
-# Vorgehensmodelle
+# Bereitstellung von Ressourcen
 
-### V-Modell XT
+- Notfallmanagement kostet Personal, Zeit und Finanzen
 
-Man unterteilt das V-Modell XT in vier mögliche Projekttypen:
+- Früh klar werden in welchem Umfang Ressourcen bereitgestellt werden sollen
 
-* **Systementwicklungprojekt (Auftragsgeber[AG])**
+- Wirtschaftlich sinnvolles Absicherungsniveau
 
+- externe Experten zu Rat ziehen
 
---
-* **Systementwicklungprojekt (Auftragsnehmer[AN])**
-
-
---
-* **Systementwicklungprojekt (Eigenentwicklung[AG/AN])**
-
-
---
-* Einführung und Pflege eines organisationsspezifischen Vorgehensmodells (ORG)
-
-
----
-# Vorgehensmodelle
-
-### V-Modell XT-Rollen
-
-* **Projektleiter** verantwortlich für Projekthandbuch,Projektplan und Risikoliste und wirkt mit an den Anforderungen
-
-
---
-* **Anforderungsanalytiker (AG)** verantwortlich für die Anforderungen
-
-
---
-* **QS-Verantwortlicher** wirkt mit am Projektplan
-
-
---
-* **Projektmanager** wirkt mit am Projekthandbuch
-
+- Zusammenarbeit mit anderen Management-Systemen (z.b. Informationssicherheitsmanagement oder (IT-)Risikomanagement.)
 
 ---
 
-# Anpassung von Modellen
+# Mitarbeiter einbinden
 
---
+- Notfallmanagement fest im Unternehmen verankern
 
-* Ziel ist die Erstellung eines Vorgehensmodell für die Firma/Organisation
+- Alle Mitarbeiter sind betroffen
 
---
+- Sensibilisierung und Schulung der Mitarbeiter
 
-* Feedback aus Projekten die das Modell nutzen
-
---
-
-* Durchgehender Verbesserungsprozess
-
---
-
-* Anpassung an die Firma und an Wünsche der Kunden 
-
---
-
-* Hilfe durch **Prozessframeworks**
-
-
----
-# Prozessmanagement
-
-???
-Die **Vorgehensmodelle** haben wie Software ein **Lebenszyklus** und dieser lässt sich in folgende Schritte unterteilen.
---
-1. **Analyse** : Anforderungen an den Gesamtprozess festlegen.
-
-
---
-2. **Konzeption**: Bedingungen mit den Anwendern einigen.
-
-
---
-3. **Realisierung**: Das Model aus 2. technisch umsetzen. 
-
-
---
-4. **Einführung**: Das Modell/der Vorgang wird eingeführt.
+- Risikokommunikation und Früherkennung
