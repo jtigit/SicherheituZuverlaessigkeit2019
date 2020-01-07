@@ -14,9 +14,8 @@ name: Notfallkonzept
 
 # Notfallkonzept
 
-### Unternehmen und Prozessabhängigkeiten verstehen
+### Die Business Impact Analyse (BIA)
 
-#####Werkzeug: Die Business Impact Analyse  
 Ziele:  
 - Identifizierung aufrechterhaltender Geschäftsprozesse
 
@@ -24,20 +23,21 @@ Ziele:
 
 ---
 
-# Aufrechterhaltung und kontinuierliche Verbesserung
+#  Notfallkonzept
 
-### Aufrechterhaltung
+### Eine Methode für eine BIA
 
-- Beispiele für Kriterien:
+- Vorgehen in 8 Phasen:
 
- - Anzahl Übungen/Tests/Notfälle inkl. deren Erfolgsrate
- 
- - Anzahl an Schulungen inkl. deren Teilnehmeranzahl und benötigte Zeit
- 
- - erforderliche Zeit zur Alarmierung des Krisenstabs
- 
- - Anzahl von reduzierten Risiken im Vergleich zu Gesamtrisiken
- 
+ - Aufnehemen von Stammdaten und Geschäftsprozessen
+ - Aussortierung von Organisationen und Prozessen
+ - Schadensanalyse
+ - Festlegung der Wiederanlaufparameter
+ - Berücksichtigung von Abhängigkeiten
+ - Priorisierung und Kritikalität von Prozessen
+ - Erhebung der Ressourcen für Normal- und Notbetrieb
+ - Kritikalität und Wiederanlaufzeit von Ressourcen
+
 ---
 
 # Aufrechterhaltung und kontinuierliche Verbesserung
