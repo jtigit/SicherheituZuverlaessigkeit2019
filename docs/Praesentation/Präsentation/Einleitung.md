@@ -3,11 +3,11 @@ count: false
 
 # Notfallmanagement
 
-angefertigt von:  
-André Grellmann  
-Jakob Tissen  
-Kevin Gerzen  
-Waldemar  
+angefertigt von:
+André Grellmann
+Jakob Tissen
+Kevin Gerzen
+Waldemar Reger
 
 <div>
 betreut von:<br>
