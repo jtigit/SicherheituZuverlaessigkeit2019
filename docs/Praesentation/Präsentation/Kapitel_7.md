@@ -9,16 +9,15 @@ name: Ablauforganisation
 # Notfallhandbuch
 
 + dokumentiert Vorgehensweise / Hilfestellung
-+ gliederung:
---
 
++ gliederung:
 
 	+ nach Phasen
 	
 	+ nach Verantortungsebenen/-bereich oder Rollen
 	
 	+ nach Prozessen
---
+
 
 + prinzipien:
 --
