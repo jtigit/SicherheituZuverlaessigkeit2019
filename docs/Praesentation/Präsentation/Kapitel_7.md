@@ -125,28 +125,7 @@ name: Ablauforganisation
 + Beispiel: bei einem Brand, mit dem Feuerlöscher die Flamme löschen.
 	
 ---
-# Krisenstab
 
-### Krisenstabraum
-
-+ Lage:
-
-	+ zentral zum Haupstandort
-	+ bei ausfall, zweiter Standort weiter weg
-+ beachten:
-
-	+ Ausreichend Platz
-	
-	+ Zugang immer möglich
-	
-	+ Sicher
-	
-	+ Technische Ausstatungen
-	
-	+ Klimaanlage
-
-
----
 # Krisenstab
 
 ### Aufgaben und Kompetenzen
