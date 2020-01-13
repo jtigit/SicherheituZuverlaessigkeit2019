@@ -352,7 +352,7 @@ name: Ablauforganisation
 
 	+ Emotionen kanalisieren
 	
-	+ Ängste abzubauen bzw nicht entstehen lassen
+	+ Ängste abbauen bzw nicht entstehen lassen
 	
 + Krisenkommunikationsplan:
 
