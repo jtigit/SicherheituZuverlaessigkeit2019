@@ -71,8 +71,9 @@ Aktualisierung der Leitlinie:
 # Initiierung des Notfallmanagement-Prozesses:
 
 ### Organisation aufbauen
+<img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K4_Organisation.png">
+<div style="font-size: 0.5em; text-align: center">Ablauf (BSI-Standard 100-4 S.18</div>
 
-.center[![Ablauf (BSI-Standard 100-4 S.18)](https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K4_Organisation.png)]
 ---
 # Initiierung des Notfallmanagement-Prozesses:
 
