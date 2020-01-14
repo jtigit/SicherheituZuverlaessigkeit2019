@@ -1,6 +1,6 @@
 name: Initiierung des Notfallmanagement-Prozesses
 
-# Initiierung des Notfallmanagement-Prozesses:
+# Initiierung des Notfallmanagement-Prozesses
 
 - Verantwortlichkeiten
 
@@ -13,7 +13,7 @@ name: Initiierung des Notfallmanagement-Prozesses
 - Mitarbeiter einbinden
 
 ---
-# Initiierung des Notfallmanagement-Prozesses:
+# Initiierung des Notfallmanagement-Prozesses
 
 ### Verantwortung übernehmen
 
@@ -26,7 +26,7 @@ name: Initiierung des Notfallmanagement-Prozesses
 - Leitungsebene muss für ausreichend Ressourcen sorgen (Personal, Zeit, Finanzen)
 
 ---
-# Initiierung des Notfallmanagement-Prozesses:
+# Initiierung des Notfallmanagement-Prozesses
 
 ### Leitlinie entwickeln
 
@@ -39,7 +39,7 @@ name: Initiierung des Notfallmanagement-Prozesses
 - Möglichst viele Fachbereiche beteiligen um eine breite Akzeptanz zu sichern
 
 ---
-# Initiierung des Notfallmanagement-Prozesses:
+# Initiierung des Notfallmanagement-Prozesses
 
 ### Inhalt der Leitlinie
 
@@ -55,7 +55,7 @@ name: Initiierung des Notfallmanagement-Prozesses
 - die Übernahme der Verantwortung durch die Institutionsleitung, die zusätzlich durch die explizite Freigabe per Unterschrift dokumentiert wird
 
 ---
-# Initiierung des Notfallmanagement-Prozesses:
+# Initiierung des Notfallmanagement-Prozesses
 ### Leitlinie
 Bekanntgabe der Leitlinie:
 - Die Leitlinie muss bekannt gegeben werden
@@ -68,14 +68,12 @@ Aktualisierung der Leitlinie:
 - Aktualisierung bei größeren Änderungen der Rahmenbedingungen
 
 ---
-# Initiierung des Notfallmanagement-Prozesses:
-
 ### Organisation aufbauen
 <img style="width:100%" src="https://raw.githubusercontent.com/jtigit/SicherheituZuverlaessigkeit2019/master/docs/Praesentation/Pr%C3%A4sentation/Bilder/K4_Organisation.png">
 <div style="font-size: 0.5em; text-align: center">Ablauf (BSI-Standard 100-4 S.18</div>
 
 ---
-# Initiierung des Notfallmanagement-Prozesses:
+# Initiierung des Notfallmanagement-Prozesses
 
 ### Bereitstellung von Ressourcen
 
@@ -90,7 +88,7 @@ Aktualisierung der Leitlinie:
 - Zusammenarbeit mit anderen Management-Systemen (z.b. Informationssicherheitsmanagement oder (IT-)Risikomanagement.)
 
 ---
-# Initiierung des Notfallmanagement-Prozesses:
+# Initiierung des Notfallmanagement-Prozesses
 
 ### Mitarbeiter einbinden
 
