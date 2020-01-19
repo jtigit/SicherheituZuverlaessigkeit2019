@@ -4,10 +4,10 @@ count: false
 # Notfallmanagement
 
 angefertigt von:
-André Grellmann (1151011)
-Jakob Tissen (1152162)
-Kevin Gerzen (1152430)
-Waldemar Reger (1161887)
+André Grellmann 
+Jakob Tissen 
+Kevin Gerzen 
+Waldemar Reger 
 
 <div>
 betreut von:<br>
